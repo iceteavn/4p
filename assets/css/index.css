@@ -238,7 +238,8 @@ body {
 }
 
 #philosophy .stitle,#aboutus .stitle {
-	font-size: 153%;
+	font-size: 24px!important;
+	text-align: center;
 }
 #philosophy .list-phi {
 	top: 168px;
@@ -349,6 +350,12 @@ body {
 	height: 236px;
 	left: 567px;
 	top: 140px;
+}
+.slide02 .icircle-04 {
+	width: 237px;
+	height: 236px;
+	left: 389px;
+	top: 240px;
 }
 .slide02 .caption {
 	position: absolute;
@@ -697,6 +704,7 @@ body {
 	font-size: 16px;
 	float: left;
 	margin-right: 14px;
+	margin-top: 75px;
 }
 #contact .inner-con div {
 	float: left;
